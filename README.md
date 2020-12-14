@@ -1,2 +1,2 @@
-# udacity
-Collection of Nanodegrees and their project-based assignments. 
+# Udacity Nanodegrees
+A collection of Udacity Nanodegrees and their project-based assignments. 
